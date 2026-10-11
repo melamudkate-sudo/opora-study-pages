@@ -1,0 +1,1 @@
+import{n as o}from"./index-DWcmnNHY.js";const c=[["path",{d:"m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z",key:"1fy3hk"}]],r=o("bookmark",c);const e=[["path",{d:"m21 21-4.34-4.34",key:"14j7rj"}],["circle",{cx:"11",cy:"11",r:"8",key:"4ej97u"}]],t=o("search",e);export{r as B,t as S};
