@@ -1,1 +1,0 @@
-import{a as r}from"./useQuery-D0x4R00M.js";import{u as a,k as n,l as c,a4 as m}from"./index-ACFKnK3y.js";function y(u,s){const{session:e,grant:o}=a();return r({queryKey:[u,s?.column,s?.value,e?.user.id],queryFn:()=>m(u,s),enabled:n&&!!e&&c(o)})}export{y as u};

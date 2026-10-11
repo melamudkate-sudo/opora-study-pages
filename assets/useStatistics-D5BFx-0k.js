@@ -1,1 +1,0 @@
-import{a as e}from"./useQuery-D0x4R00M.js";import{u as r,k as a,l as u,g as i}from"./index-ACFKnK3y.js";function o(){const{session:s,grant:t}=r();return e({queryKey:["statistics",s?.user.id],queryFn:()=>i("get_statistics"),enabled:a&&!!s&&u(t)})}export{o as u};
