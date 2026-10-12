@@ -1,0 +1,1 @@
+import{u as s,V as n}from"./index-C7psmslH.js";function c(){const{context:o,isPlatformAdmin:e}=s(),t=n().pathname.startsWith("/admin/"),a=o?.active_workspace||(o?.workspaces.length===1?o.workspaces[0].id:null);return{workspace:t?null:a,ready:t?e:!!a,global:t,root:t?"/admin":"/teacher"}}export{c as u};
