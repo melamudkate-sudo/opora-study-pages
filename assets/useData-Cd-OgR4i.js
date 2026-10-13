@@ -1,0 +1,1 @@
+import{u as o}from"./useQuery-CRnedyQ6.js";import{u as a,c as n,h as c,ac as t}from"./index-C_wwwBus.js";function y(s,u){const{session:e,grant:r}=a();return o({queryKey:[s,u?.column,u?.value,e?.user.id],queryFn:()=>t(s),enabled:n&&!!e&&c(r)})}export{y as u};
